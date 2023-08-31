@@ -1,1 +1,1 @@
-The artworks are licensed under **[Creative Commons Attribution-NonCommercial 4.0 License.](LICENSE)**
+This repository is licensed under **[Creative Commons Attribution-NonCommercial 4.0 License.](LICENSE)**
